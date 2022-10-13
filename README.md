@@ -1,4 +1,4 @@
-# HTML-CSS Practice
+# Horiseon-Mock-Up
 
 This includes webhint, stylelint, and prettier.
 
