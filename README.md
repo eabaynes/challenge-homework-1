@@ -1,7 +1,9 @@
-# Horiseon-Mock-Up
+# Horiseon Accessability Mock-Up
 
-This includes webhint, stylelint, and prettier.
+## Objective
 
-VS Code settings are included to streamline the process. Stylelint extension and prettier are there too for real time feedback. Because of the settings, Prettier will auto-format whenever you move out of the file.
+The objectve of his project was to reformat an eisting codebase to meet basic accesability standards
 
-Run `npm install` to install the dependencies. Then, run `npm start` to start the server.
+-HTML semantic tags were corrected for easer legibility
+-Alterate image tags were added to photo and icon images
+-Modified text content of certain elements for easier legibility indepentdent of their styling
